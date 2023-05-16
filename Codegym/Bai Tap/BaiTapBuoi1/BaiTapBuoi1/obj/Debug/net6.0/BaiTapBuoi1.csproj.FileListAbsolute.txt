@@ -1,0 +1,15 @@
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.exe
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.deps.json
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.runtimeconfig.json
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.dll
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\bin\Debug\net6.0\BaiTapBuoi1.pdb
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.csproj.AssemblyReference.cache
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.AssemblyInfoInputs.cache
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.AssemblyInfo.cs
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.csproj.CoreCompileInputs.cache
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.dll
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\refint\BaiTapBuoi1.dll
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.pdb
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\BaiTapBuoi1.genruntimeconfig.cache
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Bai Tap\BaiTapBuoi1\BaiTapBuoi1\obj\Debug\net6.0\ref\BaiTapBuoi1.dll
