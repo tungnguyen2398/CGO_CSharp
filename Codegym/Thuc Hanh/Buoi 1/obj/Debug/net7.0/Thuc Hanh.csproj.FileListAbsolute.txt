@@ -1,0 +1,30 @@
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.exe
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.deps.json
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.runtimeconfig.json
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.dll
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.pdb
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.csproj.AssemblyReference.cache
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.AssemblyInfoInputs.cache
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.AssemblyInfo.cs
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.csproj.CoreCompileInputs.cache
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.dll
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\refint\Thuc Hanh.dll
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.pdb
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.genruntimeconfig.cache
+D:\Code\C#\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\ref\Thuc Hanh.dll
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.csproj.AssemblyReference.cache
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.AssemblyInfoInputs.cache
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.AssemblyInfo.cs
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.csproj.CoreCompileInputs.cache
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.dll
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\refint\Thuc Hanh.dll
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.pdb
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.exe
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.deps.json
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.runtimeconfig.json
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.dll
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\bin\Debug\net7.0\Thuc Hanh.pdb
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\Thuc Hanh.genruntimeconfig.cache
+D:\Code\GitHub Repo\CGO_CSharp\Codegym\Thuc Hanh\Buoi 1\obj\Debug\net7.0\ref\Thuc Hanh.dll
