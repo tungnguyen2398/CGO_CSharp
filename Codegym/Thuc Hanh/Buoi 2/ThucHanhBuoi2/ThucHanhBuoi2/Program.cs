@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            TinhCanNang();
+            num();
         }
 
-        static void PhuongTrinhBacNhat() 
+        static void PhuongTrinhBacNhat()
         {
             Console.WriteLine("Linear Equation Resolver");
             Console.WriteLine("Given a equation as 'a * x + b = 0', please enter constants:");
@@ -33,7 +33,7 @@
             }
         }
 
-        static void TinhCanNang() 
+        static void TinhCanNang()
         {
             double height;
             double weight;
@@ -54,6 +54,19 @@
                 Console.WriteLine(" Overweight");
             else
                 Console.WriteLine(" Obese");
+        }
+
+        static void num()
+        {
+            Console.WriteLine("Nhap 1 so bat ky lon hon 3");
+            int num = int.Parse(Console.ReadLine());
+
+            while (num <= 3)
+            {
+                Console.Write("so vua nhap nho hon 3");
+                num = int.Parse(Console.ReadLine());
+            }
+            Console.Write(num);
         }
     }
 }

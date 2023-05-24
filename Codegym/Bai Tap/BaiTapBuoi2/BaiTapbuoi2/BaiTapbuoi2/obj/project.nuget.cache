@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xceo7vyC31YktxowR7XbSShSvjmtpyCS4xo2lN8xUFfukS2uu8sDNTzvZ7kAJyptdYHQ1zZYW6sJQ2gf2yJG/g==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\GitHub Repo\\CGO_CSharp\\Codegym\\Bai Tap\\BaiTapBuoi2\\BaiTapbuoi2\\BaiTapbuoi2\\BaiTapbuoi2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tung\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Tung\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Tung\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Tung\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
