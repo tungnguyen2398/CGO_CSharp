@@ -1,0 +1,15 @@
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.exe
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.deps.json
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.runtimeconfig.json
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.dll
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\bin\Debug\net6.0\SnakeGame.pdb
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.csproj.AssemblyReference.cache
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.AssemblyInfo.cs
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.dll
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\refint\SnakeGame.dll
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.pdb
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\SnakeGame.genruntimeconfig.cache
+C:\Git\CGO_CSharp\Codegym\Du An\Du An 1 Snake Game\SnakeGame\SnakeGame\obj\Debug\net6.0\ref\SnakeGame.dll
