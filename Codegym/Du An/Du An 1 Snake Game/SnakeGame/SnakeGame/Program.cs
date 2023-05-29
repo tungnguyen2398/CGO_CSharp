@@ -66,7 +66,14 @@ namespace CGO_ThucHanh1
                 Render();
                 if (reset) break;
                 //DUng man hinh 1s
-                Thread.Sleep(30);
+                if(score < 20) 
+                {
+                    Thread.Sleep(1000);
+                }
+                else if(score < 40)
+                {
+                    Thread.Sleep(500);
+                };
             }
             if (gameOver) Lose();
         }
