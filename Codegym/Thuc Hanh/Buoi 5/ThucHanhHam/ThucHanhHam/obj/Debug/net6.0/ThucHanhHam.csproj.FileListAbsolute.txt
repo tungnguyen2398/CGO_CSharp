@@ -1,0 +1,15 @@
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\bin\Debug\net6.0\ThucHanhHam.exe
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\bin\Debug\net6.0\ThucHanhHam.deps.json
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\bin\Debug\net6.0\ThucHanhHam.runtimeconfig.json
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\bin\Debug\net6.0\ThucHanhHam.dll
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\bin\Debug\net6.0\ThucHanhHam.pdb
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\ThucHanhHam.csproj.AssemblyReference.cache
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\ThucHanhHam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\ThucHanhHam.AssemblyInfoInputs.cache
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\ThucHanhHam.AssemblyInfo.cs
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\ThucHanhHam.csproj.CoreCompileInputs.cache
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\ThucHanhHam.dll
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\refint\ThucHanhHam.dll
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\ThucHanhHam.pdb
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\ThucHanhHam.genruntimeconfig.cache
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Thuc Hanh\Buoi 5\ThucHanhHam\ThucHanhHam\obj\Debug\net6.0\ref\ThucHanhHam.dll
