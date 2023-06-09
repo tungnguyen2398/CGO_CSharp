@@ -1,0 +1,15 @@
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\bin\Debug\net6.0\DemKyTuXuatHien.exe
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\bin\Debug\net6.0\DemKyTuXuatHien.deps.json
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\bin\Debug\net6.0\DemKyTuXuatHien.runtimeconfig.json
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\bin\Debug\net6.0\DemKyTuXuatHien.dll
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\bin\Debug\net6.0\DemKyTuXuatHien.pdb
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\DemKyTuXuatHien.csproj.AssemblyReference.cache
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\DemKyTuXuatHien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\DemKyTuXuatHien.AssemblyInfoInputs.cache
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\DemKyTuXuatHien.AssemblyInfo.cs
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\DemKyTuXuatHien.csproj.CoreCompileInputs.cache
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\DemKyTuXuatHien.dll
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\refint\DemKyTuXuatHien.dll
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\DemKyTuXuatHien.pdb
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\DemKyTuXuatHien.genruntimeconfig.cache
+C:\Users\L\Documents\GitHub\CGO_CSharp\Codegym\Bai Tap\Bai Tap Buoi 5 Ham\DemKyTuXuatHien\DemKyTuXuatHien\obj\Debug\net6.0\ref\DemKyTuXuatHien.dll
