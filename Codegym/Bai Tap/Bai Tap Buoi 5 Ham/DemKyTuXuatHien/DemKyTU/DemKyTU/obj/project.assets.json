@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L\\Documents\\GitHub\\CGO_CSharp\\Codegym\\Bai Tap\\Bai Tap Buoi 5 Ham\\DemKyTuXuatHien\\DemKyTuXuatHien\\DemKyTuXuatHien.csproj",
-      "projectName": "DemKyTuXuatHien",
-      "projectPath": "C:\\Users\\L\\Documents\\GitHub\\CGO_CSharp\\Codegym\\Bai Tap\\Bai Tap Buoi 5 Ham\\DemKyTuXuatHien\\DemKyTuXuatHien\\DemKyTuXuatHien.csproj",
+      "projectUniqueName": "C:\\Users\\L\\Documents\\GitHub\\CGO_CSharp\\Codegym\\Bai Tap\\Bai Tap Buoi 5 Ham\\DemKyTuXuatHien\\DemKyTU\\DemKyTU\\DemKyTU.csproj",
+      "projectName": "DemKyTU",
+      "projectPath": "C:\\Users\\L\\Documents\\GitHub\\CGO_CSharp\\Codegym\\Bai Tap\\Bai Tap Buoi 5 Ham\\DemKyTuXuatHien\\DemKyTU\\DemKyTU\\DemKyTU.csproj",
       "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L\\Documents\\GitHub\\CGO_CSharp\\Codegym\\Bai Tap\\Bai Tap Buoi 5 Ham\\DemKyTuXuatHien\\DemKyTuXuatHien\\obj\\",
+      "outputPath": "C:\\Users\\L\\Documents\\GitHub\\CGO_CSharp\\Codegym\\Bai Tap\\Bai Tap Buoi 5 Ham\\DemKyTuXuatHien\\DemKyTU\\DemKyTU\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config",
